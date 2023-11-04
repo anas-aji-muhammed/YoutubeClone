@@ -1,0 +1,25 @@
+# Default ignored files
+.idea/shelf/
+.idea/workspace.xml
+# Editor-based HTTP Client requests
+.idea/httpRequests/
+# Datasource local storage ignored files
+.idea/dataSources/
+.idea/dataSources.local.xml
+
+
+# Ignore node_modules and build directories inside FrontEnd
+FrontEnd/node_modules/
+FrontEnd/build/
+
+# Ignore .DS_Store files and local environment files inside FrontEnd
+FrontEnd/.DS_Store
+FrontEnd/.env.local
+FrontEnd/.env.development.local
+FrontEnd/.env.test.local
+FrontEnd/.env.production.local
+
+# Ignore npm and yarn logs inside FrontEnd
+FrontEnd/npm-debug.log*
+FrontEnd/yarn-debug.log*
+FrontEnd/yarn-error.log*
