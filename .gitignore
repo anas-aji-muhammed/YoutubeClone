@@ -23,3 +23,41 @@ FrontEnd/.env.production.local
 FrontEnd/npm-debug.log*
 FrontEnd/yarn-debug.log*
 FrontEnd/yarn-error.log*
+
+Backend/HELP.md
+Backend/.gradle
+Backend/build/
+!Backend/gradle/wrapper/gradle-wrapper.jar
+!Backend/**/src/main/**/build/
+!Backend/**/src/test/**/build/
+
+### STS ###
+Backend/.apt_generated
+Backend/.classpath
+Backend/.factorypath
+Backend/.project
+Backend/.settings
+Backend/.springBeans
+Backend/.sts4-cache
+Backend/bin/
+!Backend/**/src/main/**/bin/
+!Backend/**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+Backend/.idea
+Backend/*.iws
+Backend/*.iml
+Backend/*.ipr
+Backend/out/
+!Backend/**/src/main/**/out/
+!Backend/**/src/test/**/out/
+
+### NetBeans ###
+Backend/nbproject/private/
+Backend/nbbuild/
+Backend/dist/
+Backend/nbdist/
+Backend/.nb-gradle/
+
+### VS Code ###
+Backend/.vscode/
