@@ -24,40 +24,36 @@ FrontEnd/npm-debug.log*
 FrontEnd/yarn-debug.log*
 FrontEnd/yarn-error.log*
 
-Backend/HELP.md
-Backend/.gradle
-Backend/build/
-!Backend/gradle/wrapper/gradle-wrapper.jar
-!Backend/**/src/main/**/build/
-!Backend/**/src/test/**/build/
+yTubeBackend/HELP.md
+yTubeBackend/target/
+!yTubeBackend/.mvn/wrapper/maven-wrapper.jar
+!yTubeBackend/**/src/main/**/target/
+!yTubeBackend/**/src/test/**/target/
 
 ### STS ###
-Backend/.apt_generated
-Backend/.classpath
-Backend/.factorypath
-Backend/.project
-Backend/.settings
-Backend/.springBeans
-Backend/.sts4-cache
-Backend/bin/
-!Backend/**/src/main/**/bin/
-!Backend/**/src/test/**/bin/
+yTubeBackend/.apt_generated
+yTubeBackend/.classpath
+yTubeBackend/.factorypath
+yTubeBackend/.project
+yTubeBackend/.settings
+yTubeBackend/.springBeans
+yTubeBackend/.sts4-cache
 
 ### IntelliJ IDEA ###
-Backend/.idea
-Backend/*.iws
-Backend/*.iml
-Backend/*.ipr
-Backend/out/
-!Backend/**/src/main/**/out/
-!Backend/**/src/test/**/out/
+yTubeBackend/.idea
+yTubeBackend/*.iws
+yTubeBackend/*.iml
+yTubeBackend/*.ipr
 
 ### NetBeans ###
-Backend/nbproject/private/
-Backend/nbbuild/
-Backend/dist/
-Backend/nbdist/
-Backend/.nb-gradle/
+yTubeBackend/nbproject/private/
+yTubeBackend/nbbuild/
+yTubeBackend/dist/
+yTubeBackend/nbdist/
+yTubeBackend/.nb-gradle/
+yTubeBackend/build/
+!yTubeBackend/**/src/main/**/build/
+!yTubeBackend/**/src/test/**/build/
 
 ### VS Code ###
-Backend/.vscode/
+yTubeBackend/.vscode/
